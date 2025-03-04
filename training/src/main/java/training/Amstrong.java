@@ -29,6 +29,9 @@ number=number/10;
 }
 if(sum==exp)
 	System.out.print("armstrong");
+		else
+		System.out.print("Not armstrong");
+
 	}
 
 }
